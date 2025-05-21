@@ -10,6 +10,8 @@
   "license": "ISC",
   "description": "",
   "devDependencies": {
+    "@chromatic-com/cypress": "^0.11.3",
+    "chromatic": "^11.28.2",
     "cypress": "^14.3.3"
   }
 }
