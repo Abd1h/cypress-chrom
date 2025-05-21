@@ -11,6 +11,7 @@
   "description": "",
   "devDependencies": {
     "@chromatic-com/cypress": "^0.11.3",
+    "@types/jest": "^29.5.14",
     "chromatic": "^11.28.2",
     "cypress": "^14.3.3"
   }
